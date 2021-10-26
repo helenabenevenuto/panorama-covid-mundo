@@ -4,7 +4,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/chicolucio/airbnb-barcelona/issues)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chicolucio/panorama-covid-mundo/master/images/evolucao_casos_banner.gif" alt="covid_banner"height="300px" >
+  <img src="https://raw.githubusercontent.com/chicolucio/panorama-covid-mundo/master/images/evolucao_casos_banner.gif" alt="covid_banner"height="400px" >
 </p>
 
 ## Panorama do COVID-19 no mundo
