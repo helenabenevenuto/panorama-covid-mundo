@@ -1,10 +1,10 @@
-[![author](https://img.shields.io/badge/author-Francisco&nbsp;Bustamante-red.svg)](https://www.linkedin.com/in/flsbustamante/) 
+[![author](https://img.shields.io/badge/author-Helena&nbsp;Benevenuto-red.svg)](https://www.linkedin.com/in/helenabenevenuto/) 
 [![](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/) 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE) 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/chicolucio/panorama-covid-mundo/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/helenabenevenuto/panorama-covid-mundo/issues)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chicolucio/panorama-covid-mundo/master/images/evolucao_casos_banner.gif" alt="covid_banner"height="400px" >
+  <img src="https://raw.githubusercontent.com/helenabenevenuto/panorama-covid-mundo/master/images/evolucao_casos_banner.gif" alt="covid_banner"height="400px" >
 </p>
 
 # Panorama do COVID-19 no mundo
@@ -23,6 +23,9 @@ Estudos comparativos e busca de correlações são feitos com intuito de melhor
 compreender os dados. Animações como a mostrada acima são criadas e
 interpretadas.
 
+Esse é um fork do trabalho original que [pode ser encontrado aqui](https://github.com/chicolucio/panorama-covid-mundo),
+atualizando os dados até Maio de 2022.
+
 Para abrir o *notebook* do projeto no Colab:
 [![Abra no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/helenabenevenuto/panorama-covid-mundo/blob/master/projeto_covid_colab.ipynb)
 
@@ -32,10 +35,8 @@ a seção [Reproduzindo o estudo](#reproduzindo-o-estudo).
 
 **Links:**
 
-- [LinkedIn](https://www.linkedin.com/in/flsbustamante/)
-- [Outros projetos](https://franciscobustamante.com.br)
-- [Curriculum Vitae](https://franciscobustamante.com.br/about/)
-- [Ciência Programada](https://cienciaprogramada.com.br)
+- [LinkedIn](https://www.linkedin.com/in/helenabenevenuto/)
+- [Ciência Programada](https://cienciaprogramada.com.br/author/helenabenevenuto/)
 
 ## Reproduzindo o estudo
 
@@ -47,7 +48,7 @@ Caso queira reproduzir o estudo feito aqui, siga os passos:
 4. em um Jupyter Notebook, rode por completo o notebook `projeto_covid.ipynb`. Deve rodar sem erro algum
 
 ```bash
-git clone git@github.com:chicolucio/panorama-covid-mundo.git
+git clone git@github.com:helenabenevenuto/panorama-covid-mundo.git
 cd panorama-covid-mundo
 conda env create -f environment.yml
 conda activate covid
@@ -86,11 +87,3 @@ outra forma, cite-o como
 
 F. L. S. Bustamante, Panorama do COVID-19 no mundo, 2022 - Disponível em:
 https://github.com/chicolucio/panorama-covid-mundo
-
-
-## Mais do autor
-
-- [LinkedIn](https://www.linkedin.com/in/flsbustamante/)
-- [Outros projetos](https://franciscobustamante.com.br)
-- [Curriculum Vitae](https://franciscobustamante.com.br/about/)
-- [Ciência Programada](https://cienciaprogramada.com.br)
