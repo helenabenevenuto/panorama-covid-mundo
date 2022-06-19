@@ -14,7 +14,7 @@ DATA = 'data/owid-covid-data.csv'
 df = pd.read_csv(DATA)
 df['date'] = pd.to_datetime(df['date'])
 first_date = min(df.dropna(subset=['total_cases'])['date'])
-last_date = datetime.fromisoformat('2022-04-30')
+last_date = datetime.fromisoformat('2022-05-31')
 
 # ----------------------------- Matplotlib -----------------------------------
 
