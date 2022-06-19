@@ -255,7 +255,7 @@ def comparing_locations(dataframe, column_x, column_values, y_axis_name,
 
 
 # ----------------------------- Plotly---- -----------------------------------
-plotly_cont_scale = 'dense'
+plotly_cont_scale = 'GnBu'
 
 
 def treemap(df_locations, df_world_data, df_continents_data,
