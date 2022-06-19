@@ -24,7 +24,7 @@ compreender os dados. Animações como a mostrada acima são criadas e
 interpretadas.
 
 Para abrir o *notebook* do projeto no Colab:
-[![Abra no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chicolucio/panorama-covid-mundo/blob/master/projeto_covid_colab.ipynb)
+[![Abra no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/helenabenevenuto/panorama-covid-mundo/blob/master/projeto_covid_colab.ipynb)
 
 Caso prefira olhar em sua máquina local, clone o projeto e abra no Jupyter
 Notebook o arquivo `projeto_covid.ipynb`. Para instruções mais detalhadas veja
