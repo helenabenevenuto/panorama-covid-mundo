@@ -167,9 +167,9 @@ def winter(x, y, y_axis_name, sup_title, y_label='',
 
     if south_hem:
         ax.axvspan(*mdates.datestr2num(['2020-06-21', '2020-09-23']),
-                   color='purple', alpha=0.15, label=south_label)
+                   color='green', alpha=0.15, label=south_label)
         ax.axvspan(*mdates.datestr2num(['2021-06-21', '2021-09-23']),
-                   color='purple', alpha=0.15)
+                   color='green', alpha=0.15)
         handles, labels = ax.get_legend_handles_labels()
 
     if legend:
